@@ -23,7 +23,7 @@
 
 I'm a SaaS professional who spent years working around client enablement, functional support, and implementation.
 
-Worked closely with Dev and QA, sometimes BA, but <em>SRE was mostly a mystery to me.</em>
+Worked closely with users, clients, Dev and QA, sometimes BA, but <em>SRE was mostly a mystery to me.</em>
 
 Then I started learning and writing code.
 
