@@ -67,9 +67,9 @@ I didn't understand Docker, Kubernetes, containers, etc. etc.
 
 I had only ever used VirtualBox, which was already quite impressive in my little world.
 
-And then recruiters sometimes mistake me for an L2 Functional Support person who supports infrastructure like SRE.
+As an L2 functional support, people sometimes mistake me for an infrastructure support engineer, such as an SRE... But I don't
 
-They really don't understand what they're looking for.
+Well, I guess I need to learn about it...
 
 So here I am, learning all the things I apparently should have known already...
 
