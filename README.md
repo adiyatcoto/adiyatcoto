@@ -29,7 +29,7 @@ Then I started learning and writing code.
 
 I wanted to understand more about the systems I've spent years supporting. And maybe also create something new to solve my own problems.
 
-<strong>I cannot code from scratch.</strong> But I can copy and paste, and edit it.
+<strong>I cannot code from scratch.</strong> But I can conceptualize it, copy, paste, and edit.
 
 Mostly just using LLM CLIs with the terminal and directories...
 
