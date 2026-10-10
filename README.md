@@ -21,7 +21,7 @@
 
 ## <img src="https://img.shields.io/badge/01-ABOUT_ME-6F927D?style=flat-square&labelColor=0D1117" />
 
-I'm a SaaS professional who spent years working around client enablement, functional support, and implementation.
+I'm a SaaS professional who spent years working around client enablement, application support, and implementation.
 
 Worked closely with users, clients, Dev and QA, sometimes BA, but <em>SRE was mostly a mystery to me.</em>
 
@@ -100,7 +100,7 @@ My professional background is mostly around SaaS implementation, application sup
 
 | Role                                   | Environment                            | What I Did                                                                                                         |
 | -------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Functional Support Engineer            | Global EdTech ERP SaaS                 | Supported 25+ enterprise accounts, built Jira dashboards, and bridged end-users with L3 Dev/QA.                    |
+| Application Support Engineer            | Global EdTech ERP SaaS                 | Supported 25+ enterprise accounts, built Jira dashboards, and bridged end-users with L3 Dev/QA.                    |
 | Regional Implementation & Support Lead | Cloud POS & Merchant Services Platform | Led engineering teams, handled ~200 merchant sessions/month, and worked with monitoring tools and nationwide SOPs. |
 | Senior Tech Support Specialist         | Cloud POS & Merchant Services Platform | Managed full-cycle POS deployments, LAN setups, and training around Payment Gateways & E-wallets.                  |
 
