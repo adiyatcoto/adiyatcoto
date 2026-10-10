@@ -98,7 +98,7 @@ My professional background is mostly around SaaS implementation, application sup
 
 | Role                                   | Environment                            | What I Did                                                                                                         |
 | -------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Application Support Engineer            | Global EdTech ERP SaaS                 | Supported 25+ enterprise accounts, built Jira dashboards, and bridged end-users with L3 Dev/QA.                    |
+| Application Support Engineer            | Global EdTech EMS SaaS                 | Supported 25+ enterprise accounts, built Jira dashboards, and bridged end-users with L3 Dev/QA.                    |
 | Regional Implementation & Support Lead | Cloud POS & Merchant Services Platform | Led engineering teams, handled ~200 merchant sessions/month, and worked with monitoring tools and nationwide SOPs. |
 | Senior Tech Support Specialist         | Cloud POS & Merchant Services Platform | Managed full-cycle POS deployments, LAN setups, and training around Payment Gateways & E-wallets.                  |
 
