@@ -15,8 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8FB5A0?style=flat-square\&logo=linkedin\&logoColor=0D1117)](https://www.linkedin.com/in/adiyatcoto/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8FB5A0?style=flat-square\&logo=githubpages\&logoColor=0D1117)](https://adiyatcoto.github.io/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=adiyatcoto\&color=6F927D\&style=flat-square\&label=PROFILE+VIEWS)
-
 </div>
 
 ## <img src="https://img.shields.io/badge/01-ABOUT_ME-6F927D?style=flat-square&labelColor=0D1117" />
